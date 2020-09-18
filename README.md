@@ -32,7 +32,7 @@ var email = require("nativescript-open-inbox");
 #### TypeScript
 
 ```typescript
-  email.openInbox()
+  openInbox()
     .then(() => {
         console.log("Cool!");
     })
