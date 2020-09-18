@@ -1,0 +1,46 @@
+{
+  "name": "nativescript-open-inbox",
+	"version": "1.0.0",
+	"description": "Open Email inbox plugin for your NativeScript app",
+	"main": "open-inbox",
+	"typings": "index.d.ts",
+	"nativescript": {
+		"platforms": {
+			"android": "6.0.0",
+			"ios": "6.0.1"
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/franciscojaimesfreyre/nativescript-open-inbox.git"
+	},
+  "author": {
+    "name": "Francisco Jaimes Freyre",
+    "email": "franciscojaimesfreyre@gmail.com",
+    "url": "https://github.com/franciscojaimesfreyre"
+  },
+  "bugs": {
+    "url": "https://github.com/franciscojaimesfreyre/nativescript-open-inbox/issues"
+  },
+  "contributors": [
+    {
+      "name": "Francisco Jaimes Freyre",
+      "email": "franciscojaimesfreyre@gmail.com",
+      "url": "https://github.com/franciscojaimesfreyre"
+    }
+  ],
+  "devDependencies": {
+    "tns-core-modules": "^6.0.4"
+  },
+  "homepage": "https://github.com/franciscojaimesfreyre/nativescript-open-inbox",
+  "keywords": [
+    "ecosystem:NativeScript",
+    "NativeScript",
+    "Mail",
+    "Email",
+    "E-mail",
+    "Inbox",
+    "Default"
+  ],
+  "license": "MIT"
+}
