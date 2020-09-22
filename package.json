@@ -1,6 +1,6 @@
 {
   "name": "nativescript-open-inbox",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Open Email inbox plugin for your NativeScript app",
 	"main": "open-inbox",
 	"typings": "index.d.ts",
